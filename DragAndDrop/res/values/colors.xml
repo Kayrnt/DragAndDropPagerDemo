@@ -1,0 +1,40 @@
+<!--
+  Copyright 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<resources>
+
+    <color name="ab_title_color">#224894</color>
+    <color name="black">#000000</color>
+    <color name="black_handle">#FF9ca8a8</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#669900</color>
+    <color name="red">#990000</color>
+    <color name="light_green">#99CC00</color>
+    <color name="grey_toggle">#4a4a4a</color>
+    <color name="grey_title">#494949</color>
+    <color name="ics_blue">#33B5E5</color>
+    <color name="home_button_text">#ffffff</color>
+    <color name="body_background">#CC48444f</color>
+    <color name="note_background">#CC000000</color>
+    <color name="note_background_pressed">#33B5E5</color>
+    <color name="top_background">#DD000000</color>
+    <color name="top_background_pressed">#33B5E5</color>
+
+    <drawable name="transparent">#00ffffff</drawable>
+    <drawable name="altercolor1">#FFFFFF</drawable>
+    <drawable name="altercolor2">#CCCCCC</drawable>
+
+</resources>
